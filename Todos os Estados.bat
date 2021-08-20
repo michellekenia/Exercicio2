@@ -34,3 +34,10 @@ md "Para"
 md "Rondonia"
 md "Roraima"
 md "Tocantins"
+
+cd ..
+cd "Sudeste"
+md "Sao Paulo"
+md "Rio de Janeiro"
+md "Minas Gerais"
+md "Espirito Santo"

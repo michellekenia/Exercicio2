@@ -41,3 +41,9 @@ md "Sao Paulo"
 md "Rio de Janeiro"
 md "Minas Gerais"
 md "Espirito Santo"
+
+cd ..
+cd "Sul"
+md "Parana"
+md "Santa Catarina"
+md "Rio Grande do Sul"

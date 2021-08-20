@@ -13,5 +13,16 @@ md "Goias"
 md "Mato Grosso"
 md "Mato Grosso do Sul"
 
+cd ..
+cd "Nordeste"
+md "Alagoas"
+md "Bahia" 
+md "Ceara"
+md "Maranhao"
+md "Paraiba"
+md "Pernambuco"
+md "Piaui"
+md "Rio Grande do Norte"
+md "Sergipe"
 
 
